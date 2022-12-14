@@ -1,0 +1,216 @@
+.body{
+    background-color: white;
+    height: auto;
+    width: 100%;
+    margin-top: auto;
+}
+.body .topbar{
+    /* Rectangle 1424 */
+width:100% ;
+height: 260px;
+flex-direction: row;
+background: #CE1D51;
+
+}
+.body .topbar .logo{
+    position: absolute;
+    width: 154px;
+    height: 154px;
+    left: 130px;
+    top: 137px;
+    border-radius: 12px;
+    
+}
+.body .topbar .logo{
+    position: absolute;
+    width: 154px;
+    height: 154px;
+    left: 130px;
+    top: 137px;
+    border-radius: 12px;
+    
+}
+.body .topbar .detailView .container .textStoreName{
+    position: absolute;
+    width: 126px;
+    height: 24px;
+    left: 320px;
+    top: 143px;
+    font-family: 'Tara Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 24px;
+    /* identical to box height, or 86% */
+    color: #FFFFFF;
+
+}
+.body .topbar .detailView .container .textStoreName{
+    position: absolute;
+ width: auto;
+    height: 24px;
+    left: 320px;
+    top: 143px;
+    font-family: 'Tara Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 24px;
+    /* identical to box height, or 86% */
+    color: #FFFFFF;
+
+}
+.body .topbar .detailView .container .categoryNames{
+    position: absolute;
+    height: 18px;
+    left: 320px;
+    top: 179px;
+    width: auto;
+    font-family: 'Tara Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 16px;
+    /* or 67% */
+    
+    
+    color: #FFFFFF;
+
+
+color: #FFFFFF;
+
+}
+.body .topbar .detailView .container .textStoreTime{
+    position: absolute;
+    width: auto;
+    height: 18px;
+    left: 320px;
+    top: 205px;
+    
+    font-family: 'Tara Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+text-transform: lowercase;
+
+color: #FFFFFF;
+
+}
+
+.body .topbar .detailView .container .textStoreOrderType{
+    position: absolute;
+
+    width: auto;
+    height: 18px;
+    left: 320px;
+top: 235px;
+
+font-family: 'Tara Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+
+
+.body .topbar .detailView .container .addressView{
+    position: absolute;
+    width: 170.23px;
+    display:flex;
+    flex-direction:row;
+    height: 22px;
+    left: 320px;
+    top: 263px;
+
+}
+.body .topbar .detailView .container .addressView .storeAddress{
+    position: absolute;
+    height: 18px;
+    font-family: 'Tara Sans';
+left: 20px;
+padding: 5px;
+align-items: center;
+align-self: center;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+.body .topbar .detailView .container .starLay{
+    padding-left: 3px;
+    position: absolute;
+display:flex;
+flex-direction:row;
+padding-left: 10px;
+right: 56.1%;
+align-items: stretch;
+top: 137px;
+}
+.body .topbar .detailView .container .starLay .starIcon{
+    padding-left: 3px;
+    }
+    .body .topbar .detailView .container .storeStatus{
+        padding-left: 3px;
+        position: absolute;
+    height: 36px;
+    top: 163.33px;
+    right: 56.1%;
+    font-family: 'Tara Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 18px;
+    text-align: right;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+
+        }
+
+          .body .topbar .detailView .offerView {
+            position: absolute;
+            width: auto;
+            left: 938px;
+            top: 137px;
+            flex-direction: column;
+            display: inline;
+
+        }
+        
+        .body .topbar .detailView .offerView .offerTextView {
+            font-family: 'Tara Sans';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+        }
+    
+        .body .topbar .detailView .offerView .offerBanner{
+            color: green;
+        
+            margin-left: 0px;
+            margin-top: 10px;
+ }
+ .body .topbar .detailView .offerView .offerBanner img{
+padding: 5px;
+   
+}
+    
