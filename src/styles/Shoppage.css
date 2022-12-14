@@ -211,6 +211,7 @@ color: #FFFFFF;
  }
  .body .topbar .detailView .offerView .offerBanner img{
 padding: 5px;
+align-self: start;
    
 }
     
