@@ -1,0 +1,42 @@
+.menuCategoryView{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+    background-color: blueviolet;
+    position: absolute;
+    font-size: larger;
+    font-family: Montserrat, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 0px;
+    width: 0px;
+    height: auto;
+    left: 122px;
+    top: 431px;
+    
+}
+
+.menuCategoryView .tabs{
+font-family: Montserrat, serif;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 24px;
+font-style: normal;
+text-transform: capitalize;
+/* identical to box height, or 133% */
+
+}
+.menuCategoryView .tabs::-ms-value{
+    font-family: Montserrat, serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 24px;
+    font-style: normal;
+    text-transform: capitalize;
+    /* identical to box height, or 133% */
+    }

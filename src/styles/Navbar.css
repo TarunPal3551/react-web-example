@@ -5,6 +5,7 @@
     display: flex;
     flex-direction: row;
     box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
+    font-family: Montserrat, serif;
   }
   
   .navbar .leftSide {
@@ -13,15 +14,19 @@
     display: flex;
     align-items: center;
     padding-left: 0px;
+    font-family: Montserrat, serif;
   }
 
   
   .navbar .leftSide img {
     width: 70%;
     height: 40%;
+    font-family: Montserrat, serif;
+    
   }
   .navbar .leftSide .hiddenLinks {
     width: 90%;
+    font-family: Montserrat, serif;
   }
   
   .navbar .rightSide {
@@ -30,12 +35,14 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: Montserrat, serif;
   }
 
   
   .navbar a {
     color: black;
     text-decoration: none;
+    font-family: Montserrat, serif;
     margin: 20px;
   }
   
@@ -44,10 +51,12 @@
     border: none;
     color: black;
     cursor: pointer;
+    font-family: Montserrat, serif;
   }
   
   .navbar .rightSide svg {
     font-size: 40px;
+    font-family: Montserrat, serif;
   }
   
   .navbar #open {
